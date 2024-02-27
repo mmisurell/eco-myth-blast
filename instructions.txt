@@ -1,0 +1,16 @@
+"There is a class Question that represents true/false statements, and an array of objects contains the content for each statement. Each statement is written as either true or false, and the order is shuffled to ensure randomness.
+
+Implement a countdown sound to indicate to the user that there is a time limitation for answering each question. The countdown sound should start when a new question is displayed and stop when the user submits an answer.
+
+After each answer is submitted, display the correct answer on the screen for user feedback. The correct answer should be highlighted or displayed prominently to provide clarity.
+
+Implement a score tracker that keeps track of the number of correct answers. Display the current score prominently on the screen. Additionally, indicate how many questions are left to answer in the game.
+
+Ensure that each question is used only once per game to maintain variety and challenge.
+
+Consider adding event listeners to handle user interactions such as submitting answers or starting a new game.
+
+
+
+
+
